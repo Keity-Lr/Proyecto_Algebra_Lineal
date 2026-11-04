@@ -1,3 +1,14 @@
+# Entornos virtuales
 .venv/
+venv/
+env/
+
+# Archivos temporales de Python
 __pycache__/
+*.py[cod]
+
+# Jupyter Notebook
 .ipynb_checkpoints/
+
+# Archivos de entorno
+.env
